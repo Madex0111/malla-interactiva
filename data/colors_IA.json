@@ -1,0 +1,22 @@
+{
+  "OB": [
+    "#00838F",
+    "Obligatoria"
+  ],
+  "OPT": [
+    "#6A1B9A",
+    "Optativa"
+  ],
+  "ELEC": [
+    "#EF6C00",
+    "Electiva"
+  ],
+  "HUM": [
+    "#558B2F",
+    "Humanística"
+  ],
+  "IDM": [
+    "#3949AB",
+    "Idioma Extranjero"
+  ]
+}
